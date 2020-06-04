@@ -1,0 +1,20 @@
+echo -e '\033[0m\033[1;30m
+             ..ooo@@@XXX%%%xx..
+         .oo@@XXX%x%xxx..     ` .
+        .o@XX%%xx..               ` .
+      o@X%..                  ..ooooooo
+    .@X%x.                 ..o@@^^   ^^@@o
+  .ooo@@@@@@ooo..      ..o@@^          @X%
+  o@@^^^     ^^^@@@ooo.oo@@^             %
+xzI    \033[1;31m-*--      \033[1;30m^^^o^^        \033[1;31m--*-     \033[1;30m%
+@@@o     ooooooo^@@^o^@X^@oooooo     .X%x
+I@@@@@@@@@XX%%xx  ( o@o )X%x@ROMBASED@@@X%x
+I@@@@XX%%xx  oo@@@@X% @@X%x   ^^^@@@@@@@X%x
+@X%xx     o@@@@@@@X% @@XX%%x  )    ^^@X%x
+  ^   xx o@@@@@@@@Xx  ^ @XX%%x    xxx
+        o@@^^^ooo I^^ I^o ooo   .  x
+        oo @^ IX      I   ^X  @^ oo
+        IX     U  .        V     IX
+         V     .           .     V
+
+\033[0m'
